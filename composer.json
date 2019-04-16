@@ -1,0 +1,26 @@
+{
+  "name": "jigarbytes/jigarbytes",
+  "type": "project",
+  "license": "MIT",
+  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "homepage": "https://bytestechnolab.com",
+  "authors": [
+    {
+      "name": "Bytes",
+      "email": "info@bytestechnolab.com",
+      "homepage": "http://bytestechnolab.com"
+    }
+  ],
+  "keywords": [
+   "wordpress", "stack", "composer", "vagrant", "wp"
+  ],
+  "require": {
+    "php": ">=7.1",
+    "composer/installers": "^1.4",
+    "vlucas/phpdotenv": "^3.0.0",
+    "oscarotero/env": "^1.1.0",
+    "roots/wordpress": "5.1.1",
+    "roots/wp-config": "1.0.0",
+    "roots/wp-password-bcrypt": "1.0.0"
+   }
+  }
