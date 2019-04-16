@@ -25,8 +25,7 @@
                 "type": "git",
                 "reference": "master"
             },
-
-        }
-    }
+        },
+    },
 ],
 }
