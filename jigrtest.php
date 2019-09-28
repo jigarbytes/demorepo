@@ -2159,7 +2159,7 @@ it('map orderCustomer to existing customer in finale', function() {
           expect(rslt[i++].userField).toEqual({attrName:'integration_etsysku_10001', attrValue:'HASH_9F01 923 1500586325'})
         })
 
-        it('logs when external id changes', function() {
+        it('logs when external id changes NEWTSSt', function() {
           var rslt
 
           results.product = TEST.finaleApiFakeData.product({
